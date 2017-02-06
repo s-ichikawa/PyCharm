@@ -3,14 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1485259243456">
+      <file name="/Dummy.txt" timestamp="1486382548250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/perceptron/and.py" timestamp="1485259165080">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486382405497">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="/a.dummy" timestamp="1486382542044">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/perceptron/nand.py" timestamp="1486382139748">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps />
@@ -18,18 +23,26 @@
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoQU5EKDAsIDApKQo=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHcxLCB3MiwgdGhldGEgPSAwLjUsIDAuNSwgMC43Cg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>NAND</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>NAND</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts />
   </component>
 </application>

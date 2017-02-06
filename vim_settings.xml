@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1486382548250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486382405497">
+      <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486383805584">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
@@ -14,7 +14,11 @@
       <file name="/a.dummy" timestamp="1486382542044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/perceptron/nand.py" timestamp="1486382139748">
+      <file name="$USER_HOME$/PycharmProjects/perceptron/and.py" timestamp="1486383787995" />
+      <file name="$USER_HOME$/PycharmProjects/perceptron/nand.py" timestamp="1486383798352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/perceptron/func.py" timestamp="1486383769756">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1486384766791">
+      <file name="/Dummy.txt" timestamp="1486510365883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486383805584">
@@ -20,6 +20,9 @@
         <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/nand.py" timestamp="1486383798352">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/nn1.py" timestamp="1486509692630">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neural-network/step_func.py" timestamp="1486468055646">

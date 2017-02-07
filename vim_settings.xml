@@ -14,9 +14,21 @@
       <file name="/a.dummy" timestamp="1486382542044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/perceptron/and.py" timestamp="1486383787995" />
+      <file name="$USER_HOME$/PycharmProjects/neural-network/sigmoid_func.py" timestamp="1486468199342">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/nand.py" timestamp="1486383798352">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/step_func.py" timestamp="1486468055646">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/relu_func.py" timestamp="1486468518153">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/func.py" timestamp="1486383769756">
         <mark key="[" line="0" column="0" />
@@ -28,13 +40,19 @@
         <text encoding="base64">cHJpbnQoQU5EKDAsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHcxLCB3MiwgdGhldGEgPSAwLjUsIDAuNSwgMC43Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>NAND</text>
+        <text>sigmoid</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGVmIHN0ZXBfZnVuY3Rpb24oeCk6CiAgICByZXR1cm4gbnAuYXJyYXkoeCA+IDAsIGR0eXBlPW5wLmludCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHcxLCB3MiwgdGhldGEgPSAwLjUsIDAuNSwgMC43Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NAND</text>
+        <text>sigmoid</text>
       </register>
     </registers>
     <search>

@@ -41,44 +41,50 @@
       <file name="$USER_HOME$/PycharmProjects/perceptron/func.py" timestamp="1486383769756">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/nn3.py" timestamp="1486728271572">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="10" />
+        <mark key="." line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">cHJpbnQoQU5EKDAsIDApKQo=</text>
+        <text encoding="base64">ICAgIFcxLCBXMiwgVzMgPSBuZXR3b3JrWydXMSddLCBuZXR3b3JrWydXMiddLCBuZXR3b3JrWydXMyddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgKCg==</text>
+        <text encoding="base64">ClggPSBucC5hcnJheShbMS4wLCAwLjVdKQpXMSA9IG5wLmFycmF5KFtbMC4xLCAwLjMsIDAuNV0sIFswLjIsIDAuNCwgMC42XV0pCkIxID0gbnAuYXJyYXkoWzAuMSwgMC4yLCAwLjNdKQoKQTEgPSBucC5kb3QoWCwgVzEpICsgQjEKWjEgPSBzaWdtb2lkKEExKQoKcHJpbnQoWjEpCgpXMiA9IG5wLmFycmF5KFtbMC4xLCAwLjRdLCBbMC4yLCAwLjVdLCBbMC4zLCAwLjZdXSkKQjIgPSBucC5hcnJheShbMC4xLCAwLjJdKQoKQTIgPSBucC5kb3QoWjEsIFcyKSArIEIyCloyID0gc2lnbW9pZChBMikKCnByaW50KFoyKQoKVzMgPSBucC5hcnJheShbWzAuMSwgMC4zXSwgWzAuMiwgMC40XV0pCkIzID0gbnAuYXJyYXkoWzAuMSwgMC4yXSkKCkEzID0gbnAuZG90KFoyLCBXMykgKyBCMwoKWSA9IGlkZW50aXR5X2Z1bmN0aW9uKEEzKQoKcHJpbnQoWSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgKCg==</text>
+        <text encoding="base64">ClggPSBucC5hcnJheShbMS4wLCAwLjVdKQpXMSA9IG5wLmFycmF5KFtbMC4xLCAwLjMsIDAuNV0sIFswLjIsIDAuNCwgMC42XV0pCkIxID0gbnAuYXJyYXkoWzAuMSwgMC4yLCAwLjNdKQoKQTEgPSBucC5kb3QoWCwgVzEpICsgQjEKWjEgPSBzaWdtb2lkKEExKQoKcHJpbnQoWjEpCgpXMiA9IG5wLmFycmF5KFtbMC4xLCAwLjRdLCBbMC4yLCAwLjVdLCBbMC4zLCAwLjZdXSkKQjIgPSBucC5hcnJheShbMC4xLCAwLjJdKQoKQTIgPSBucC5kb3QoWjEsIFcyKSArIEIyCloyID0gc2lnbW9pZChBMikKCnByaW50KFoyKQoKVzMgPSBucC5hcnJheShbWzAuMSwgMC4zXSwgWzAuMiwgMC40XV0pCkIzID0gbnAuYXJyYXkoWzAuMSwgMC4yXSkKCkEzID0gbnAuZG90KFoyLCBXMykgKyBCMwoKWSA9IGlkZW50aXR5X2Z1bmN0aW9uKEEzKQoKcHJpbnQoWSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgK</text>
+        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpbnQoQTEpCnByaW50KFoxKQo=</text>
+        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoQjEuc2hhcGUpCg==</text>
+        <text encoding="base64">cHJpbnQoQTEpCnByaW50KFoxKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnQoVzEuc2hhcGUpCnByaW50KFguc2hhcGUpCg==</text>
+        <text encoding="base64">cHJpbnQoQjEuc2hhcGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHJpbnQoQTEpCg==</text>
+        <text encoding="base64">cHJpbnQoVzEuc2hhcGUpCnByaW50KFguc2hhcGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">WSA9IG5wLmRvdChYLCB3KQpwcmludChZKQo=</text>
+        <text encoding="base64">cHJpbnQoQTEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">WSA9IG5wLmRvdChYLCB3KQpwcmludChZKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIHN0ZXBfZnVuY3Rpb24oeCk6CiAgICByZXR1cm4gbnAuYXJyYXkoeCA+IDAsIGR0eXBlPW5wLmludCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>sigmoid</text>
+        <text>W</text>
       </register>
     </registers>
     <search>

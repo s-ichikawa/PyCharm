@@ -14,8 +14,8 @@
       <file name="/a.dummy" timestamp="1486382542044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/neural-network/sigmoid_func.py" timestamp="1486468199342">
-        <mark key="[" line="9" column="4" />
+      <file name="$USER_HOME$/PycharmProjects/neural-network/sigmoid_func.py" timestamp="1486726608864">
+        <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
@@ -33,6 +33,11 @@
         <mark key="]" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/nn2.py" timestamp="1486727591135">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/func.py" timestamp="1486383769756">
         <mark key="[" line="0" column="0" />
       </file>
@@ -43,16 +48,34 @@
         <text encoding="base64">cHJpbnQoQU5EKDAsIDApKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgKCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sigmoid</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmIHN0ZXBfZnVuY3Rpb24oeCk6CiAgICByZXR1cm4gbnAuYXJyYXkoeCA+IDAsIGR0eXBlPW5wLmludCkK</text>
+        <text encoding="base64">ZGVmIGlkZW50aXR5X2Z1bmN0aW9uKHgpOgogICAgcmV0dXJuIHgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHcxLCB3MiwgdGhldGEgPSAwLjUsIDAuNSwgMC43Cg==</text>
+        <text encoding="base64">cHJpbnQoQTEpCnByaW50KFoxKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpbnQoQjEuc2hhcGUpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHJpbnQoVzEuc2hhcGUpCnByaW50KFguc2hhcGUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHJpbnQoQTEpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">WSA9IG5wLmRvdChYLCB3KQpwcmludChZKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGVmIHN0ZXBfZnVuY3Rpb24oeCk6CiAgICByZXR1cm4gbnAuYXJyYXkoeCA+IDAsIGR0eXBlPW5wLmludCkK</text>
       </register>
       <register name="-" type="4">
         <text>sigmoid</text>

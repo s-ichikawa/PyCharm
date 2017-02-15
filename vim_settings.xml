@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1486865238189">
+      <file name="/Dummy.txt" timestamp="1487162725886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486383805584">
@@ -11,8 +11,14 @@
         <mark key="]" line="3" column="4" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1486861953329">
+      <file name="/a.dummy" timestamp="1487161999908">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/numeric_decision.py" timestamp="1487161455135">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="6" column="19" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neural-network/nn1.py" timestamp="1486509692630">
         <mark key="[" line="0" column="0" />
@@ -60,13 +66,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">eSA9IGV4cF9hIC8gc3VtX2V4cF9hCg==</text>
+        <text encoding="base64">cHJpbnQoeF90cmFpbi5zaGFwZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">eSA9IG5wLmV4cChhIC0gYykgLyBucC5zdW0obnAuZXhwKGEgLSBjKSkKcHJpbnQoeSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">eSA9IG5wLmV4cChhIC0gYykgLyBucC5zdW0obnAuZXhwKGEgLSBjKSkKcHJpbnQoeSkK</text>
+        <text encoding="base64">cHJpbnQoeF90cmFpbi5zaGFwZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">cHJpbnQoYSAtIGMpCgo=</text>

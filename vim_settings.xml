@@ -14,6 +14,12 @@
       <file name="/a.dummy" timestamp="1487161999908">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/codes/dataset/mnist.py" timestamp="1487163552571">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/mnist_show.py" timestamp="1487163478468">
+        <mark key="[" line="6" column="5" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/neural-network/numeric_decision.py" timestamp="1487161455135">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="9" column="20" />
@@ -54,6 +60,7 @@
         <mark key="]" line="9" column="4" />
         <mark key="." line="9" column="4" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/codes/ch03/mnist_show.py" timestamp="1487163420501" />
       <file name="$USER_HOME$/PycharmProjects/perceptron/nand.py" timestamp="1486383798352">
         <mark key="[" line="0" column="0" />
       </file>
@@ -63,16 +70,23 @@
     </filemarks>
     <jumps>
       <jump line="4" column="1" filename="$USER_HOME$/PycharmProjects/neural-network/softmax_func.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/neural-network/codes/dataset/mnist.py" />
     </jumps>
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHJpbnQoeF90cmFpbi5zaGFwZSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>W</text>
+      </register>
+      <register name="/" type="4">
+        <text>load_mnist</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">cHJpbnQoeF90cmFpbi5zaGFwZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">eSA9IG5wLmV4cChhIC0gYykgLyBucC5zdW0obnAuZXhwKGEgLSBjKSkKcHJpbnQoeSkK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cHJpbnQoeF90cmFpbi5zaGFwZSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">cHJpbnQoYSAtIGMpCgo=</text>
@@ -98,16 +112,18 @@
       <register name="9" type="2">
         <text encoding="base64">ClggPSBucC5hcnJheShbMS4wLCAwLjVdKQpXMSA9IG5wLmFycmF5KFtbMC4xLCAwLjMsIDAuNV0sIFswLjIsIDAuNCwgMC42XV0pCkIxID0gbnAuYXJyYXkoWzAuMSwgMC4yLCAwLjNdKQoKQTEgPSBucC5kb3QoWCwgVzEpICsgQjEKWjEgPSBzaWdtb2lkKEExKQoKcHJpbnQoWjEpCgpXMiA9IG5wLmFycmF5KFtbMC4xLCAwLjRdLCBbMC4yLCAwLjVdLCBbMC4zLCAwLjZdXSkKQjIgPSBucC5hcnJheShbMC4xLCAwLjJdKQoKQTIgPSBucC5kb3QoWjEsIFcyKSArIEIyCloyID0gc2lnbW9pZChBMikKCnByaW50KFoyKQoKVzMgPSBucC5hcnJheShbWzAuMSwgMC4zXSwgWzAuMiwgMC40XV0pCkIzID0gbnAuYXJyYXkoWzAuMSwgMC4yXSkKCkEzID0gbnAuZG90KFoyLCBXMykgKyBCMwoKWSA9IGlkZW50aXR5X2Z1bmN0aW9uKEEzKQoKcHJpbnQoWSkK</text>
       </register>
-      <register name="-" type="4">
-        <text>W</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>load_mnist</last-search>
+      <last-offset />
+      <last-pattern>load_mnist</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>load_mnist</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />

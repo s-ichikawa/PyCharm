@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1487163902532">
+      <file name="/Dummy.txt" timestamp="1487204063105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486383805584">
@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/PycharmProjects/neural-network/codes/dataset/mnist.py" timestamp="1487163552571">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/neural-network/mnist_show.py" timestamp="1487163478468">
+      <file name="$USER_HOME$/PycharmProjects/neural-network/mnist_show.py" timestamp="1487204272088">
         <mark key="[" line="6" column="5" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neural-network/numeric_decision.py" timestamp="1487161455135">
@@ -55,6 +55,7 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/neural-network/neuralnet_mnist.py" timestamp="1487204265274" />
       <file name="$USER_HOME$/PycharmProjects/neural-network/sigmoid_func.py" timestamp="1486726608864">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="4" />

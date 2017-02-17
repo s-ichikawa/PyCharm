@@ -55,7 +55,12 @@
         <mark key="." line="5" column="10" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/neural-network/neuralnet_mnist.py" timestamp="1487204265274" />
+      <file name="$USER_HOME$/PycharmProjects/neural-network/neuralnet_mnist.py" timestamp="1487338565949">
+        <mark key="[" line="10" column="84" />
+        <mark key="]" line="10" column="3" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/neural-network/sigmoid_func.py" timestamp="1486726608864">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="4" />

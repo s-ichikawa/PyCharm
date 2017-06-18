@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1488118203422">
+      <file name="/Dummy.txt" timestamp="1497782691541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/perceptron/or.py" timestamp="1486383805584">
@@ -20,8 +20,11 @@
       <file name="$USER_HOME$/PycharmProjects/neural-network/mnist_show.py" timestamp="1487204272088">
         <mark key="[" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/PDF-Reader/reader.py" timestamp="1496972384332">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/PDF-Reader/reader.py" timestamp="1497782671607">
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/neural-network/numeric_decision.py" timestamp="1487161455135">
         <mark key="[" line="7" column="6" />
@@ -80,44 +83,44 @@
       <jump line="2" column="0" filename="$USER_HOME$/PycharmProjects/neural-network/codes/dataset/mnist.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>W</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>load_mnist</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFcxLCBXMiwgVzMgPSBuZXR3b3JrWydXMSddLCBuZXR3b3JrWydXMiddLCBuZXR3b3JrWydXMyddCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">YXJndnMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eSA9IG5wLmV4cChhIC0gYykgLyBucC5zdW0obnAuZXhwKGEgLSBjKSkKcHJpbnQoeSkK</text>
+        <text encoding="base64">ZnJvbSBQSUwgaW1wb3J0IEltYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnQoYSAtIGMpCgo=</text>
+        <text encoding="base64">eSA9IG5wLmV4cChhIC0gYykgLyBucC5zdW0obnAuZXhwKGEgLSBjKSkKcHJpbnQoeSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmMgPSBucC5tYXgoYSkK</text>
+        <text encoding="base64">cHJpbnQoYSAtIGMpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YSA9IG5wLmFycmF5KFswLjMsIDIuOSwgNC4wXSkK</text>
+        <text encoding="base64">CmMgPSBucC5tYXgoYSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">eSA9IGV4cF9hIC8gc3VtX2V4cF9hCnByaW50KHkpCg==</text>
+        <text encoding="base64">YSA9IG5wLmFycmF5KFswLjMsIDIuOSwgNC4wXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHJpbnQoc3VtX2V4cF9hKQoK</text>
+        <text encoding="base64">eSA9IGV4cF9hIC8gc3VtX2V4cF9hCnByaW50KHkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CnN1bV9leHBfYSA9IG5wLnN1bShleHBfYSkK</text>
+        <text encoding="base64">cHJpbnQoc3VtX2V4cF9hKQoK</text>
       </register>
     </registers>
     <search>
